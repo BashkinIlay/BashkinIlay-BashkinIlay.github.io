@@ -1,0 +1,47 @@
+body {
+font-family: Times New Roman, Calibri, Cambria;
+color: rgb(0,0,125);
+text-align: justify;
+max-width: 80%;
+font-size: 130%;
+padding: 20px;
+background-image: url("E:/practice/SITE/IMG/fon1.png");
+padding: 20px;}
+
+.img {
+display: block;
+margin: 0px auto; 
+width: 700px;
+height: 200px;
+padding: 0;
+}
+
+nav, footer {
+margin-left: 225px ;
+margin-right: 210px;
+clear: both;
+height: 30px;
+background-color: rgb(164,164,255);}
+
+nav ul {
+color: rgb(0,0,0);
+text-align: center;
+margin: 0px;
+padding: 2px 1px 1px 1px;}
+
+nav li {
+display: inline;
+margin-right: 30px;}
+
+nav li a {
+color: rgb(0,0,0);}
+
+nav li a:hover {
+color: rgb(94,255,255);}
+
+a {
+text-decoration: none;}
+
+.osn {
+font-size: 110%;
+text-position: center;}
